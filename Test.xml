@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edureka>
+<emp>
+<empno>101</empno>
+<ename>helen</ename>
+<sal>1000</sal>
+</emp>
+<emp>
+<empno>102</empno>
+<ename>Meki</ename>
+<sal>1010</sal>
+</emp>
+</edureka>
